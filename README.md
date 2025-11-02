@@ -33,7 +33,7 @@ This project creates strong, random passwords with customizable lengths and char
 ## 🏁 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/password-generator-java.git
+   git clone https://github.com/your-username/Password_Generator.git
 
 ---
 
